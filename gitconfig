@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = davidvandeven38@gmail.com
+	name = David van de Ven
